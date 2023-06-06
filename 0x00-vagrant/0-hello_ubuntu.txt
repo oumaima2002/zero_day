@@ -1,0 +1,1 @@
+It print the information of the system of the machine.
